@@ -1,3 +1,17 @@
+## Project Highlights
+
+✔ Integrated 5 business datasets
+
+✔ Built analytics-ready data pipeline
+
+✔ Developed KPI framework
+
+✔ Created revenue normalization logic
+
+✔ Applied Generative AI for data preprocessing and insight generation
+
+✔ Generated actionable business recommendations
+
 # Global Electronics Retail Analytics Platform
 
 ## Business Problem
